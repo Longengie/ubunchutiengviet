@@ -8,4 +8,4 @@ Bộ truyện này là dự án Tiếng Việt mà mình mới thành lập, tro
 
 Công việc dịch và edit truyện khá mệt mỏi và vất vả nên nếu bạn đọc truyện thấy hay thì nên hỗ trợ cũng như tạo động lực cho người dịch bằng cách quét một trong hai mã QR code dưới đây để donate qua ví điện tử Mama hoặc Viettel Pay, mình xin cảm ơn trước các bạn donate mình.
 
-![](C:\Users\Long%20Engie\AppData\Roaming\marktext\images\2020-07-12-09-36-38-image.png)
+![](https://github.com/Longengie/ubunchutiengviet/blob/master/donate.png)
