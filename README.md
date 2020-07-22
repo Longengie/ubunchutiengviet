@@ -6,6 +6,8 @@ Bộ truyện này là dự án Tiếng Việt mà mình mới thành lập, tro
 
 2. Bộ truyện gốc được xuất bản dưới giấy phép Creative Commons nên bản dịch cũng sẽ được cung cấp dưới dạng giấy phép này, bao gồm file nguồn: https://github.com/Longengie/ubunchutiengviet
 
+3. Nguồn bộ này mình lấy từ trang web của tác giả là http://www.aerialline.com/comics/ubunchu/
+
 Công việc dịch và edit truyện khá mệt mỏi và vất vả nên nếu bạn đọc truyện thấy hay thì nên hỗ trợ cũng như tạo động lực cho người dịch bằng cách quét một trong hai mã QR code dưới đây để donate qua ví điện tử Mama hoặc Viettel Pay, mình xin cảm ơn trước các bạn donate mình.
 
 ![](https://github.com/Longengie/ubunchutiengviet/blob/master/donate.png)
